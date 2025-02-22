@@ -14,8 +14,7 @@ A fun and interactive Turtle Race Game built using Python's Turtle module. Place
 ## ⚙️ Installation
 Clone the repository and navigate to the project directory:
 ```bash
-git clone <your-repo-link>
-cd <your-project-folder>
+
 
 .
 ├── main.py           # The main game logic for the Turtle Race
